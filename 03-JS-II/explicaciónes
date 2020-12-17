@@ -1,0 +1,10 @@
+for
+&&, ||, !
+
+for: estructura de control que te permite repetir código las veces que necesites para optimizar el programa.
+
+and: operador lógico que devuelve true sólo si las 2 condiciones son true.
+
+or: operador lógico que devuelve false sólo si las 2 condiciones son false.
+
+not: operador lógico que invierte el resultado booleano de la condición.
